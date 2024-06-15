@@ -1,0 +1,5 @@
+tuba 40
+vedat 70
+selen 60
+sekl 30
+klmn 40
